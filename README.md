@@ -10,7 +10,3 @@
 #### I'm currently working on
 * My trading bot
 * A virtual machine or two, depends on the mood
-
-#### How to reach me
-* Email, on the left
-* Discord: ¬¬Ace💤#6861
