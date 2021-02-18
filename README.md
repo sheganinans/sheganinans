@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello World!
 
-<!--
-**sheganinans/sheganinans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm interested in
+* Compilers and Language Design
+* Machine Learning
 
-Here are some ideas to get you started:
+## I'm looking to collab on
+* Mathematical Finance
+* Simulated Physics & Chemistry
+* Logical Foundations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm currently working on
+* My trading bot
+* A virtual machine or two, depends on the mood
+
+## Fun Fact
+* My highschool's computer system security sucked and I instructed them on why
+
+## How to reach me
+* Email, on the left
+* Discord: ¬¬Ace💤#6861
