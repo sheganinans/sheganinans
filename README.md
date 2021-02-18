@@ -11,9 +11,6 @@
 * My trading bot
 * A virtual machine or two, depends on the mood
 
-#### Fun Fact
-* My highschool's computer system security sucked and I instructed them on why
-
 #### How to reach me
 * Email, on the left
 * Discord: ¬¬Ace💤#6861
