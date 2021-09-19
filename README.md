@@ -10,3 +10,5 @@
 #### I'm currently working on
 * My trading bot
 * A virtual machine or two, depends on the mood
+
+[Check Out My Indicator!](https://www.tradingview.com/script/I4ifUwSu-Daily-Play-Ace-Spectrum/)
