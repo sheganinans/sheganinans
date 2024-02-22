@@ -1,3 +1,5 @@
+![Recursive feature pruning in action](./featureimportance.gif)
+
 #### I'm interested in
 * Compilers and Language Design
 * Machine Learning
